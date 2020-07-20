@@ -22,7 +22,7 @@ Wanna See How it works?
 
 <h2 align ='center'>Usage</h2>
 Convinced..huh? 😉 and want this spell for yourself?
-<p align = 'center'><img src = "https://media.giphy.com/media/3Xw6TZ8xgjqojOwlvr/giphy.gif" width = 30%></p>
+<p align = 'center'><img src = "https://media.giphy.com/media/3Xw6TZ8xgjqojOwlvr/giphy.gif" width = 70%></p>
 
 Here you go:
 
@@ -38,9 +38,6 @@ Here you go:
 - Abracadabra ⚡
 
 **I assume you have python installed on your system and set to path.**
-
-
-
 
 
 
