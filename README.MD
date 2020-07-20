@@ -39,6 +39,9 @@ Here you go:
 
 **I assume you have python installed on your system and set to path.**
 
+<h2 align = 'center'>License 📜</h2>
+<p align = 'center'><img src = 'https://media.giphy.com/media/XfD8VJDUurgMjNEP72/giphy.gif' width = 40%></p>
 
+[MIT License](https://github.com/smaranjitghose/PyLowPolify/blob/master/LICENSE)
 
 
