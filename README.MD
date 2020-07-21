@@ -1,16 +1,16 @@
 <h1 align ='center'>Py_Low_Polyfier🎭</h1>
 
 Would you like to convert your daily life images into dope art🔥?
-<p align = 'center'><img src = "https://media.giphy.com/media/3oKGzndXmhBesqkRji/giphy.gif" width = 30%></p>
+<p align = 'center'><img src = "https://media.giphy.com/media/3oKGzndXmhBesqkRji/giphy.gif" width = 40%></p>
 
 Don't have the time😴? Not sure about picking up the paint brush🖌? Too lazy to learn photoshop😩?
-<p align = 'center'><img src = "https://media.giphy.com/media/8pcNZM3CcDghq/giphy.gif" width = 30%></p>
+<p align = 'center'><img src = "https://media.giphy.com/media/8pcNZM3CcDghq/giphy.gif" width = 40%></p>
 
 But still wanna have those Low Poly images without much hasssle?😇
-<p align = 'center'><img src = "https://media.giphy.com/media/1ugExf74fLoyI/giphy.gif" width = 30%></p>
+<p align = 'center'><img src = "https://media.giphy.com/media/1ugExf74fLoyI/giphy.gif" width = 40%></p>
 
 Well, pass a smile 😊 because python🐍  has your back now with a magic spell of image triangulation!
-<p align = 'center'><img src = "https://media.giphy.com/media/yPoPb5M2K8BeE/giphy.gif" width = 30%></p>
+<p align = 'center'><img src = "https://media.giphy.com/media/yPoPb5M2K8BeE/giphy.gif" width = 40%></p>
 
 <h2 align ='center'>Demo</h2>
 Wanna See How it works?
